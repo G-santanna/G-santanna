@@ -73,9 +73,3 @@
 <img src="https://raw.githubusercontent.com/G-santanna/G-santanna/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/G-santanna/count.svg?"  />
-</div>
-
-###
