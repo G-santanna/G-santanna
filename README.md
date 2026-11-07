@@ -69,7 +69,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/G-santanna/G-santanna/output/snake.svg" alt="Snake animation" />
-
-###
